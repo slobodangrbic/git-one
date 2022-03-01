@@ -2,4 +2,6 @@ body{
     background: red;
     font-size: 2em;
     font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 20px;
 }
